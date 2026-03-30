@@ -10,3 +10,4 @@ pydantic
 python-dotenv
 accelerate
 evaluate
+rank-bm25
